@@ -18,4 +18,4 @@ Currently covering:
 <hr/>
 
 With love,
-The AG Crew
+The AG Crew <3
