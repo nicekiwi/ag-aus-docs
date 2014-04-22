@@ -1,5 +1,5 @@
 <?php // Pull chnages from git.
 
 chdir(__DIR__);
-$output = shell_exec('git pull origin master');
-echo '<pre>' . $output . '</pre>';
+$output = shell_exec('git pull');
+echo '<pre>' . $output . ' at ' . __DIR__ . '</pre>';
