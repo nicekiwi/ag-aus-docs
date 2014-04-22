@@ -21,6 +21,7 @@
 	"toggle_code": true,
 	"date_modified": true,
 	"clean_urls": false,
+	"float": false,
 	"timezone": "Australia/ACT",
 	"twitter": ["klepas", "SirVirtue", "nicekiwi"],
 	"links": {
