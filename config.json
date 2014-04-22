@@ -24,7 +24,7 @@
 	"float": false,
 	"ignore": {
 		"folders": [".git"]
-	}
+	},
 	"timezone": "Australia/ACT",
 	"twitter": ["klepas", "SirVirtue", "nicekiwi"],
 	"links": {
