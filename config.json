@@ -1,0 +1,30 @@
+{
+	"title": "AG Docs",
+	"tagline": "Setup and community documentation",
+	"docs_path": "docs",
+	"image": "img/app.png",
+	"theme": "custom",
+	    "colors": {
+	        "sidebar-background": "#f7f7f7",
+	        "sidebar-hover": "#c5c5cb",
+	        "lines": "#e7e7e9",
+	        "dark": "#3f4657",
+	        "light": "#B73C3C5",
+	        "light-text": "#82becd",
+	        "text": "#2d2d2d",
+	        "syntax-string": "#022e99",
+	        "syntax-comment": "#84989b",
+	        "syntax-number": "#2f9b92",
+	        "syntax-label": "#840d7a"
+	      },
+	"template": "default",
+	"toggle_code": true,
+	"date_modified": true,
+	"clean_urls": false,
+	"timezone": "Australia/ACT",
+	"twitter": ["klepas", "SirVirtue", "nicekiwi"],
+	"links": {
+		"AG: home": "https://ag-aus.org",
+		"GitHub Repo": "https://github.com/klepas/ag-docs"
+	}
+}
