@@ -22,6 +22,9 @@
 	"date_modified": true,
 	"clean_urls": true,
 	"float": false,
+	"ignore": {
+		"folders": [".git"]
+	}
 	"timezone": "Australia/ACT",
 	"twitter": ["klepas", "SirVirtue", "nicekiwi"],
 	"links": {
