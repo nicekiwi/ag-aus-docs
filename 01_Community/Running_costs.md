@@ -1,6 +1,17 @@
-This is out of date and needs updating.
+This page lists the main costs for running AG things.
 
-- Hypernia: USD $110/3 months
-- VentraIP web hosting for the Web server: AUD $9.95/month
-- VentraIP domain name registration: AUD $8.95/year
-- Gameme stats service: USD $6/month
+## Main ongoing costs
+
+- PantheonES services — total: $127.75 AUD/month
+  - 3 “flexi” servers at 3 × $39.95 AUD/month
+  - 50-slot “war” Murmur (Mumble) server at 1 × $7.95 AUD/month
+- Gameme stats service: $6 USD/month
+
+## Other costs
+
+A list of other things that come up:
+
+- SSL certificates (lüffy)
+- Amazon S3 map hosting (Kiwi)
+- *nix webserver hosting (Kiwi)
+- Minecraft server (Mr. Owl)

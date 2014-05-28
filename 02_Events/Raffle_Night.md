@@ -1,15 +1,14 @@
 * What: TF2 item raffles!
-* Where: Server #4
+* Where: Server #1
 * When: typically Sundays
 
 ## Running the event
 
 1. Post event to Steam group
-2. Switch Server #4 from MvM to 32-slot
-3. Switch to AG Raffles Steam account to use [its backpack](http://www.tf2items.com/profiles/76561198059122318)
-4. Use [TF2R](http://tf2r.com) service to run each raffle
-5. Posting the raffle’s link into in-game chat for players to enter
-6. When done switch Server #4 back to MvM config and map
+2. Switch to AG Raffles Steam account to use [its backpack](http://www.tf2items.com/profiles/76561198059122318)
+3. Use [TF2R](http://tf2r.com) service to run each raffle
+4. Posting the raffle’s link into in-game chat for players to enter
+5. Rinse; repeat.
 
 ### AG Raffles Account
 

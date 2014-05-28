@@ -1,5 +1,5 @@
 * What: boxing with Heavies
-* Where: Server #4
+* Where: Server #1
 * When: 1st of March, June, September and December
 
 ## Running the event

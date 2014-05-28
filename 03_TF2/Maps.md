@@ -1,6 +1,6 @@
 We do like to run *a lot* of custom maps on our servers. ☺
 
-Custom maps need to be synchronised between the TF2 server hosting the map and the [web server which indexes all our maps](http://ag-aus.org/tf/maps/) while serving them to TF2 clients as needed (e.g. on map change when the server changes to a map the client doesn’t have locally).
+Custom maps need to be synchronised between the TF2 server hosting the map and Amazon S3 which hosts maps for clients to download as needed (e.g. on map change when the server changes to a map the client doesn’t have locally).
 
 ## Automation baby
 
@@ -53,7 +53,7 @@ Prior to editing it’ll look something like this:
  * There is one section by default, called "mapcyclefile" - it is mapped to the
  * mapcycle.txt file, or whatever the contents of your mapcyclefile cvar is.
  *
- * If a plugin requests a map list file which doesn't exist, or is empty, SourceMod
+ * If a plugin requests a map list file which doesn’t exist, or is empty, SourceMod
  * tries the "default" section, and then the "mapcyclefile" section.
  */
 
@@ -110,7 +110,7 @@ We also want to be able to nominate those fun gimmick maps sometimes, so we need
 
 The map list we created for server admins is chosen from the `sm_map` and `sm_votemap` menus so we will need to direct those plugins to the correct location: `/tf/addons/sourcemod/configs/adminmenu_maplist.ini`
 
-When you've finished with your map config it should look like this:
+When you’ve finished with your map config it should look like this:
 
 ```
 /
@@ -156,7 +156,7 @@ When you've finished with your map config it should look like this:
 }
 ```
 
-This is how Server #1 is currently set up. It shows all **nominate-only** maps, in-game during the vote, by prefixing an asterisk (`*`) to them . By using the `!nominate` command you will see all the maps available on the server. If there are no nominations prior to the end-of-map vote, there will not be any 'gimmick' maps included in that vote.
+This is how Server #1 is currently set up. It shows all **nominate-only** maps, in-game during the vote, by prefixing an asterisk (`*`) to them . By using the `!nominate` command you will see all the maps available on the server. If there are no nominations prior to the end-of-map vote, there will not be any ‘gimmick’ maps included in that vote.
 
 ## Pathing — `.nav` files
 

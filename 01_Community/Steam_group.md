@@ -1,7 +1,7 @@
 
 The Steam group is at: [steamcommunity.com/groups/AG-Aus](http://steamcommunity.com/groups/AG-Aus).
 
-All Staff have mod/admin access to the group (SteamCommunity.com distinguishes still between the original group owner and other staff in ultimate rights).
+All Staff have mod/admin access to the group, though SteamCommunity.com distinguishes between the original group owner and other staff in ultimate rights.
 
 The profile info should at all times include details about:
 
@@ -9,7 +9,7 @@ The profile info should at all times include details about:
 - our rules
 - IP addresses for all servers
 
-<small>No real need to edit this stuff unless something new and fairly permanent needs to get added.</small>
+No real need to edit this stuff unless something new and fairly permanent needs to get added.
 
 ## Use of notifications
 

@@ -27,11 +27,11 @@ From `/tf/addons/configs/`, straightforward:
         "address"   "203.33.121.205"
         "port"      "27082"
     }
-    "#4 MvM"
-    {
-        "address"   "203.33.121.205"
-        "port"      "27081"
-    }
+//  "#4 MvM"
+//  {
+//      "address"   "203.33.121.205"
+//      "port"      "27081"
+//  }
 }
 ```
 

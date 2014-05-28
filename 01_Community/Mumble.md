@@ -1,5 +1,3 @@
-
-
 We host a community *Murmur* server for us to voice chat via [Mumble](http://mumble.sourceforge.net/) with one another. It’s supports low-latency, high quality voice chats and many more [features](http://mumble.sourceforge.net/Features).
 
 > Mumble is an open source voice communication application that features a customisable in game overlay, application skins, conversation recording, and advanced voice activity detection.

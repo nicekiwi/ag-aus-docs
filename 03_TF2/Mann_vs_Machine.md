@@ -1,4 +1,4 @@
-With help from Plodski and Disturbed we run a fourth server in [Mann vs Machine mode](http://wiki.teamfortress.com/wiki/Mann_vs._Machine). When not running MvM mode this server is used to host custom events.
+With help from Plodski and Disturbed we ran a fourth server in [Mann vs Machine mode](http://wiki.teamfortress.com/wiki/Mann_vs._Machine).
 
 ## Switching to–fro MvM mode
 
