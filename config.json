@@ -19,7 +19,7 @@
 	"template": "default",
 	"toggle_code": true,
 	"date_modified": true,
-	"clean_urls": false,
+	"clean_urls": true,
 	"float": false,
 	"ignore": {
 		"folders": [".git"]
